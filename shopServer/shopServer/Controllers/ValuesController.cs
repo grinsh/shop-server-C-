@@ -21,6 +21,14 @@ namespace shopServer.Controllers
             return "value";
         }
 
+        [HttpGet]
+        [Route("api/values/SayHello/{fname}/{lname}")]
+        public string SayHello(string fname, string lname)
+        {
+            return "Hello to " + fname + " " + lname;
+        }
+
+
         // POST api/values
         public void Post([FromBody] string value)
         {
