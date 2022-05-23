@@ -83,3 +83,10 @@ C:\Users\בסיעתא דשמיא\Documents\project\server\c#_server\shopServer\s
 C:\Users\בסיעתא דשמיא\Documents\project\server\c#_server\shopServer\shopServer\obj\Debug\shopServer.csproj.CopyComplete
 C:\Users\בסיעתא דשמיא\Documents\project\server\c#_server\shopServer\shopServer\obj\Debug\shopServer.dll
 C:\Users\בסיעתא דשמיא\Documents\project\server\c#_server\shopServer\shopServer\obj\Debug\shopServer.pdb
+C:\Users\בסיעתא דשמיא\Documents\project\server\c#_server\shopServer\shopServer\bin\DAL.dll
+C:\Users\בסיעתא דשמיא\Documents\project\server\c#_server\shopServer\shopServer\bin\EntityFramework.dll
+C:\Users\בסיעתא דשמיא\Documents\project\server\c#_server\shopServer\shopServer\bin\EntityFramework.SqlServer.dll
+C:\Users\בסיעתא דשמיא\Documents\project\server\c#_server\shopServer\shopServer\bin\DAL.pdb
+C:\Users\בסיעתא דשמיא\Documents\project\server\c#_server\shopServer\shopServer\bin\DAL.dll.config
+C:\Users\בסיעתא דשמיא\Documents\project\server\c#_server\shopServer\shopServer\bin\EntityFramework.xml
+C:\Users\בסיעתא דשמיא\Documents\project\server\c#_server\shopServer\shopServer\bin\EntityFramework.SqlServer.xml
